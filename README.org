@@ -1,0 +1,1 @@
+* My Latex Fragment preview settings in org-mode
